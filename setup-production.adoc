@@ -436,6 +436,7 @@ sudo rm /etc/nginx/sites-enabled/default
 .Create the logs folder (mandatory)
 [source,bash]
 ----
+cd ~
 mkdir -p ~/logs
 ----
 
